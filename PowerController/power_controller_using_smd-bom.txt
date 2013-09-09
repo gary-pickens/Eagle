@@ -1,0 +1,28 @@
+Partlist exported from C:/Users/Gary/eagle/PowerController/power_controller_using_smd.sch at 6/29/2013 3:29:46 PM
+
+Part      Value            Device          Package        Description                            MF    MPN        OC_FARNELL OC_NEWARK PROD_ID    VALUE           
+C1        8.2pF            C-USC0805       C0805          CAPACITOR, American symbol                                                                              
+C2        1uF              C-USC0805       C0805          CAPACITOR, American symbol                                                                              
+C3        0.1uF            C-USC0805       C0805          CAPACITOR, American symbol                                                                              
+C4        0.1uF            C-USC0805       C0805          CAPACITOR, American symbol                                                                              
+C5        0.1uF            C-USC0805       C0805          CAPACITOR, American symbol                                                                              
+J1        5.5x2.1mm Barrel POWER_JACKSMD   POWER_JACK_SMD Power Jack                                                                   CONN-08106 5.5x2.1mm Barrel
+LED1      Red              LEDCHIP-LED0603 CHIP-LED0603   LED                                                                                                     
+LED2      Red              LEDCHIP-LED0603 CHIP-LED0603   LED                                                                                                     
+R1        10K              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+R2        10K              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+R3        10K              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+R4        330              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+R5        330              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+R6        240              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+R7        390              R-US_R0805      R0805          RESISTOR, American symbol                                                                               
+STANDOFF1 STAND-OFF        STAND-OFF       STAND-OFF      #4 Stand Off                                                                                            
+STANDOFF2 STAND-OFF        STAND-OFF       STAND-OFF      #4 Stand Off                                                                                            
+STANDOFF3 STAND-OFF        STAND-OFF       STAND-OFF      #4 Stand Off                                                                                            
+STANDOFF4 STAND-OFF        STAND-OFF       STAND-OFF      #4 Stand Off                                                                                            
+U$1       XBEE-1B3         XBEE-1B3        XBEE-SMD       Xbee module footprints                                                       CONN-09042                 
+U1        TMP36            TMP36GT9        TO-92          Precision degC temp sensor, analog out                                                                  
+U2        VREG 317 SMD     V_REG_317SMD    SOT223         Voltage Regulator                                                                                       
+X1        22-23-2021       22-23-2021      22-23-2021     .100" (2.54mm) Center Header - 2 Pin   MOLEX 22-23-2021 1462926    25C3832                              
+X2        22-23-2021       22-23-2021      22-23-2021     .100" (2.54mm) Center Header - 2 Pin   MOLEX 22-23-2021 1462926    25C3832                              
+X3        22-23-2021       22-23-2021      22-23-2021     .100" (2.54mm) Center Header - 2 Pin   MOLEX 22-23-2021 1462926    25C3832                              
